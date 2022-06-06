@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshalHarle
 - 👀 I’m interested in Full Stack Web Development and Cybersecurity.
-- 🌱 I’m currently learning Node.js & Django.
+- 🌱 I’m currently learning React.js & Node.js.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me harshalharle01@gmail.com 
 
