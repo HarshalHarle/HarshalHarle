@@ -24,45 +24,44 @@
   <h2 style="margin-bottom: 1rem;"> 🚀 About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
-    Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
+    Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
     <br>
     When I'm not hypnotized by pixels,✨ you'll find me nose-deep in a good book,📖 or wandering through uncharted landscapes,🌏 or chatting up with interesting folks for life's juicy tales!
     <br><br>
     From crafting sleek web apps to dodging bugs🪲(yup, been doing that since <strong>2012</strong>), I'm your go-to guy for all things web dev. I like the thrill of pushing the boundaries of what's possible. Currently, I'm on the lookout for exciting <strong>new opportunities</strong> and open to exploring fresh roles in the tech scene.
     <br>
-    Whether it's a new job or a chance to flex my coding muscles,💪🏻 if you've got a spot on your team that needs a bit of coding flair and a whole lot of enthusiasm, count me in!  Let's connect & create something awesome! ✨
+    Whether it's a new job or a chance to flex my coding muscles,💪🏻 if you've got a spot on your team that needs a bit of coding flair and a whole lot of enthusiasm, count me in! Let's connect & create something awesome! 🪄
     <br><br>
-    ⚡ Fun fact – I'm more than just a coder; I'm a storyteller. And Oh, I almost forgot to tell you.. I use Arch btw. Because, you know, I like to keep things edgy..!
+    ⚡ Fun fact – I'm more than just a coder, I'm a storyteller. And Oh, I almost forgot to tell you.. I use Arch btw.
   </p>
-
 </div>
+<hr>
 
 <h2>🧰 Tech Stack </h2>
-
 <h3>⌨️ Languages </h3>
     <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript" height="28rem">
-    </a>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="28rem">
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=FFD43B" alt="Python" height="28rem">
-    </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/-Rust-E57324?logo=rust&logoColor=black" alt="Rust" height="28rem">
-    </a>
-    <a href="https://www.cplusplus.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="28rem">
-    </a>
-    <a href="https://www.cprogramming.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" height="28rem">
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=E76F00" alt="Java" height="28rem">
-    </a> 
-</div>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript" height="28rem">
+        </a>
+        <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="28rem">
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=FFD43B" alt="Python" height="28rem">
+        </a>
+        <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+        <img src="https://img.shields.io/badge/-Rust-E57324?logo=rust&logoColor=black" alt="Rust" height="28rem">
+        </a>
+        <a href="https://www.cplusplus.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="28rem">
+        </a>
+        <a href="https://www.cprogramming.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" height="28rem">
+        </a>
+        <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+            <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=E76F00" alt="Java" height="28rem">
+        </a> 
+    </div>
 
 <h3>🎨 Frontend </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
@@ -107,7 +106,7 @@
         <img src="https://img.shields.io/badge/-MySQL-00758f?logo=mysql&logoColor=white" alt="MySQL" height="28rem">
     </a>
     <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/Prisma-070811?logo=Prisma&logoColor=white" alt="Prisma" height="28rem">
+        <img src="https://img.shields.io/badge/Prisma-070811?logo=Prisma&logoColor=white" alt="Prisma" height="28rem">
     </a>
     <a href="https://redis.io" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Redis-D82C20?logo=redis&logoColor=white" alt="Redis" height="28rem">
@@ -161,7 +160,7 @@
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" height="28rem">
     </a>
     <a href="https://neovim.io" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143?&logo=neovim&logoColor=white" alt="Neovim" height="28rem">
+        <img src="https://img.shields.io/badge/NeoVim-%2357A143?&logo=neovim&logoColor=white" alt="Neovim" height="28rem">
     </a>
     <a href="https://code.visualstudio.com/insiders" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-VS_Code_Insiders-282C34?logo=visual-studio-code&logoColor=24bfa5" alt="Visual Studio Code" height="28rem">
@@ -282,40 +281,10 @@
 </div>
 
 <h2>📂 Recent Projects </h2>
-<div style="padding: 0 0.5rem">
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
-        <div>
-            <a href="https://realtimeboard.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard -  Collaborative Whiteboard">
-            </a>
-        </div>
-        <div>
-            <a href="https://jotion.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App">
-            </a>
-        </div>
-        <div>
-            <a href="https://linguist.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://linguist.vercel.app" alt="Linguist - AI Powered Language App">
-            </a>
-        </div>
-        <div>
-            <a href="https://zenboard.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool">
-            </a>
-        </div>
-        <div>
-            <a href="https://genius-studio.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio">
-            </a>
-        </div>
-        <div>
-            <a href="https://imagick.vercel.app">
-                <img src="https://svg.bookmark.style/api?url=https://imagick.vercel.app" alt="Imagick Tool">
-            </a>
-        </div>
-    </div>
-</div>
+
+| [![RealTimeBoard - Collaborative Whiteboard](https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app)](https://realtimeboard.vercel.app) | [![Jotion - Note Taking App](https://svg.bookmark.style/api?url=https://jotion.vercel.app)](https://jotion.vercel.app) | [![Linguist - AI Powered Language App](https://svg.bookmark.style/api?url=https://linguist.vercel.app)](https://linguist.vercel.app) |
+|---|---|---|
+| [![ZenBoard - Project Management Tool](https://svg.bookmark.style/api?url=https://zenboard.vercel.app)](https://zenboard.vercel.app) | [![Genius AI Studio](https://svg.bookmark.style/api?url=https://genius-studio.vercel.app)](https://genius-studio.vercel.app) | [![Imagick Tool](https://svg.bookmark.style/api?url=https://imagick.vercel.app)](https://imagick.vercel.app) |
 
 <hr>
 
