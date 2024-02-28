@@ -292,18 +292,18 @@
     <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" alt="GitHub Stats" style="width: 2rem;">
     GitHub Stats
 </h2>
-<div style="text-align: center;">
+<div  align="center">
     <div style="margin-bottom: 1rem;">
         <a href="https://streak-stats.demolab.com?user=HarshalHarle&theme=transparent&border_radius=30&fire=FF4500&border=EB5454&ring=006AFF&stroke=BF616A&sideNums=80a1d4&currStreakNum=a6d9ff&dates=049167&currStreakLabel=c6ffbb&sideLabels=ffcdfd">
             <img src="https://streak-stats.demolab.com?user=HarshalHarle&theme=transparent&border_radius=30&fire=FF4500&border=EB5454&ring=006AFF&stroke=BF616A&sideNums=80a1d4&currStreakNum=a6d9ff&dates=049167&currStreakLabel=c6ffbb&sideLabels=ffcdfd" alt="GitHub Streak">
         </a>
     </div>
-    <div style="margin-bottom: 1rem;">
+    <div  align="center">
         <a>
             <img src="https://gstat.vercel.app/api/top-langs/?username=HarshalHarle&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
         </a>
     </div>
-    <div>
+    <div  align="center">
         <a>
             <img src="https://visitcount.itsvg.in/api?id=HarshalHarle&label=Guests%20Visited&icon=8&color=7&pretty=true" alt="">
         </a>
@@ -321,6 +321,7 @@ contact@harshalharle.tech
 ```
 <hr>
  <h2>💰 You can support me through donation</h2>
+ <div  align="center">
 <a href="https://buymeacoffee.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="28rem">
 </a>
@@ -330,3 +331,4 @@ contact@harshalharle.tech
 <a href="https://paypal.me/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
     <img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" alt="PayPal" height="28rem">
 </a>
+</div>
