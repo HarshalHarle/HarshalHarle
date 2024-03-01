@@ -294,16 +294,16 @@
 </h2>
 <div  align="center">
     <div style="margin-bottom: 1rem;">
-        <a href="https://streak-stats.demolab.com?user=HarshalHarle&theme=transparent&border_radius=30&fire=FF4500&border=EB5454&ring=006AFF&stroke=BF616A&sideNums=80a1d4&currStreakNum=a6d9ff&dates=049167&currStreakLabel=c6ffbb&sideLabels=ffcdfd">
+        <a href="https://github.com/HarshalHarle?tab=repositories">
             <img src="https://streak-stats.demolab.com?user=HarshalHarle&theme=transparent&border_radius=30&fire=FF4500&border=EB5454&ring=006AFF&stroke=BF616A&sideNums=80a1d4&currStreakNum=a6d9ff&dates=049167&currStreakLabel=c6ffbb&sideLabels=ffcdfd" alt="GitHub Streak">
         </a>
     </div>
-    <div  align="center">
-        <a>
-            <img src="https://gstat.vercel.app/api/top-langs/?username=HarshalHarle&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+    <div style="margin-bottom: 1rem;">
+        <a href="https://github.com/HarshalHarle?tab=repositories">
+            <img height=200 align="center" src="https://gstat.vercel.app/api/top-langs?username=harshalharle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&include_all_commits=true&count_private=true&card_width=320&theme=transparent#gh-dark-mode-only&hide_border=true&border_radius=30" />
         </a>
     </div>
-    <div  align="center">
+    <div>
         <a>
             <img src="https://visitcount.itsvg.in/api?id=HarshalHarle&label=Guests%20Visited&icon=8&color=7&pretty=true" alt="">
         </a>
