@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
 </h1>
 
-###
 
 <a href="https://t.me/HarshalHarle" target="_blank" rel="noopener noreferrer">
     <img title='Use for Direct Messages' align="right" height="32" alt="Mail" src="assets/icons/telegram.png" />
