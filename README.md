@@ -2,22 +2,9 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
 </h1>
 
-
-<a href="https://t.me/HarshalHarle" target="_blank" rel="noopener noreferrer">
-    <img title='Use for Direct Messages' align="right" height="32" alt="Mail" src="assets/icons/telegram.png" />
-</a>
-<a href="https://www.linkedin.com/in/harshalharle" target="_blank" rel="noopener noreferrer">
-    <img title='View Professional Journey' align="right" height="32" alt="LinkedIn" src="assets/icons/linkedin.png" />
-</a>
-<a href="https://www.harshalharle.tech" target="_blank" rel="noopener noreferrer">
-    <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
-</a>
-
-<h2>🔍 Find me Here </h2>
-
 <div style="font-family: 'Arial', sans-serif;">
 
-  <h2 style="margin-bottom: 1rem;"> 🚀 About Me </h2>
+  <h2 align="center" style="margin-bottom: 1rem;"> 🚀 About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
     Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
