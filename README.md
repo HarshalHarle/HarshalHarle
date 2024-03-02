@@ -16,9 +16,9 @@
 <a href="https://www.harshalharle.tech" target="_blank" rel="noopener noreferrer">
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
-<a href="https://github.com/HarshalHarle/HarshalHarle#reach-out">
-    <img title="www.harshalharle.tech" align="right" height="32" alt="Harshal Harle" src="assets/icons/mail.png"/>
-</a>
+
+[<img title="www.harshalharle.tech" align="right" height="32" alt="Harshal Harle" src="assets/icons/mail.png"/>](#reach-out)
+
 
 <h2>🔍 Connect on</h2>
 
