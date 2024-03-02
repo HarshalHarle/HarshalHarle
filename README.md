@@ -4,7 +4,7 @@
 
 <div style="font-family: 'Arial', sans-serif;">
 
-  <h2 align="center" style="margin-bottom: 1rem;"> 🚀 About Me </h2>
+  <h2 align="center" style="margin-bottom: 1rem;"> About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
     Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
