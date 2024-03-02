@@ -14,7 +14,7 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-<h2>🔍  Where to find me</h2>
+<h2>🔍 Find me Here </h2>
 
 <div style="font-family: 'Arial', sans-serif;">
 
