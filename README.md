@@ -16,8 +16,11 @@
 <a href="https://www.harshalharle.tech" target="_blank" rel="noopener noreferrer">
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
+<a href="#reach-out">
+    <img title="www.harshalharle.tech" align="right" height="32" alt="Harshal Harle" src="assets/icons/mail.png"/>
+</a>
 
-<h2>🔍  Where to find me</h2>
+<h2>🔍 Connect on</h2>
 
 <div style="font-family: 'Arial', sans-serif;">
 
@@ -344,7 +347,7 @@
 </div>
 
 <hr>
-<h2>📬 Reach out to me at</h2>
+<h2  id="reach-out">📬 Reach out to me at</h2>
 <a title='Open Default Mail Client App' href="mailto:contact@harshalharle.tech">
     <img height="55" align="left" clear="right" alt="Mail" src="assets/icons/mail.png" />
 </a>
