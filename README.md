@@ -17,7 +17,8 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-[<img title="www.harshalharle.tech" align="right" height="32" alt="Harshal Harle" src="assets/icons/mail.png"/>](#reach-out)
+
+[![Harshal Harle](assets/icons/email.png)](javascript:void(prompt('', 'contact@harshalharle.tech')))
 
 
 <h2>🔍 Connect on</h2>
@@ -347,7 +348,8 @@
 </div>
 
 <hr>
-<h2  id="reach-out">📬 Reach out to me at</h2>
+
+## 📬 Reach out to me at
 <a title='Open Default Mail Client App' href="mailto:contact@harshalharle.tech">
     <img height="55" align="left" clear="right" alt="Mail" src="assets/icons/mail.png" />
 </a>
