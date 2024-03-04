@@ -35,7 +35,7 @@
     ⚡ Fun fact – I'm more than just a coder, I'm a storyteller. And Oh, I almost forgot to tell you.. I use Arch btw.
   </p>
 </div>
-<hr>
+
 
 <h2>🧰 Tech Stack </h2>
 <h3>⌨️ Languages </h3>
@@ -319,7 +319,7 @@
   </tr>
 </table>
 
-<hr>
+
 
 <h2>
     <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" alt="GitHub Stats" style="width: 2rem;">
@@ -343,7 +343,7 @@
     </div>
 </div>
 
-<hr>
+
 
 ## 📬 Reach out to me at
 <a title='Open Default Mail Client App' href="mailto:contact@harshalharle.tech">
@@ -353,7 +353,7 @@
 ```
 contact@harshalharle.tech
 ```
-<hr>
+
  <h2>💰 You can support me through donation</h2>
  <div  align="center">
 <a href="https://buymeacoffee.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
