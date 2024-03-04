@@ -289,45 +289,11 @@
 </div>
 </section>
 
-<section>
-<h2>📂 Recent Projects </h2>
-<table style="width: 100%; margin: 0 auto;">
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://realtimeboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://jotion.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://zenboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool">
-      </a>
-    </td>
-  </tr>
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://companion-ai.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://companion-ai.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://genius-studio.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://imagick.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://imagick.vercel.app" alt="Imagick Tool">
-      </a>
-    </td>
-  </tr>
-</table>
-</section>
+## 📂 Recent Projects
+
+[![RealTimeBoard - Collaborative Whiteboard](https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app)](https://realtimeboard.vercel.app) | [![Jotion - Note Taking App](https://svg.bookmark.style/api?url=https://jotion.vercel.app)](https://jotion.vercel.app) | [![ZenBoard - Project Management Tool](https://svg.bookmark.style/api?url=https://zenboard.vercel.app)](https://zenboard.vercel.app)
+|-|-|-|
+[![CompanionAI](https://svg.bookmark.style/api?url=https://companion-ai.vercel.app)](https://companion-ai.vercel.app) | [![Genius AI Studio](https://svg.bookmark.style/api?url=https://genius-studio.vercel.app)](https://genius-studio.vercel.app) | [![Imagick Tool](https://svg.bookmark.style/api?url=https://imagick.vercel.app)](https://imagick.vercel.app)
 
 <section>
 <h2>
