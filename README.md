@@ -1,3 +1,4 @@
+<header>
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
 </h1>
@@ -6,7 +7,6 @@
 </h3>
 
 ###
-
 <a href="https://t.me/HarshalHarle" target="_blank" rel="noopener noreferrer">
     <img title='Use for Direct Messages' align="right" height="32" alt="Mail" src="assets/icons/telegram.png" />
 </a>
@@ -17,10 +17,12 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-<h2>🔍 Connect on</h2>
+<h2>🔍  Where to find me</h2>
 
+</header>
+<main>
+<section>
 <div style="font-family: 'Arial', sans-serif;">
-
   <h2 style="margin-bottom: 1rem;"> 🚀 About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
@@ -30,13 +32,14 @@
     <br><br>
     From crafting sleek web apps to dodging bugs🪲(yup, been doing that since <strong>2012</strong>), I'm your go-to guy for all things web dev. I like the thrill of pushing the boundaries of what's possible. Currently, I'm on the lookout for exciting <strong>new opportunities</strong> and open to exploring fresh roles in the tech scene.
     <br>
-    Whether it's a new job or a chance to flex my coding muscles,💪🏻 if you've got a spot on your team that needs a bit of coding flair and a whole lot of enthusiasm, count me in! Let's connect & create something awesome! 🪄
+    Whether it's a new job 💼 or a chance to flex my coding muscles,💪🏻 if you've got a spot on your team that needs a bit of coding flair and a whole lot of enthusiasm 🙌, count me in! Let's connect & create something awesome! 🪄
     <br><br>
     ⚡ Fun fact – I'm more than just a coder, I'm a storyteller. And Oh, I almost forgot to tell you.. I use Arch btw.
   </p>
 </div>
+</section>
 
-
+<section>
 <h2>🧰 Tech Stack </h2>
 <h3>⌨️ Languages </h3>
     <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
@@ -128,11 +131,11 @@
 
 <h3>☁️ Cloud & Deployment </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
-    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Vercel-black.svg?logo=vercel&logoColor=white" alt="Vercel" height="28rem">
-    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&logoColor=FF9900" alt="AWS" height="28rem">
+    </a>
+    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
+        <img src="https://img.shields.io/badge/-Vercel-black.svg?logo=vercel&logoColor=white" alt="Vercel" height="28rem">
     </a>
     <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/-Firebase-039BE5.svg?logo=firebase&logoColor=FFCA28" alt="Firebase" height="28rem">
@@ -217,6 +220,7 @@
     </a>
 </div>
 
+<section>
 <h2>🧑🏻‍💻 Developer Forums </h2>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://www.codewars.com/users/HarshalHarle" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
@@ -244,7 +248,9 @@
         <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="28rem">
     </a>
 </div>
+</section>
 
+<section>
 <h2>🌐 Socials </h2>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://twitter.com/HarshalHarle" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
@@ -260,7 +266,9 @@
         <img src="https://img.shields.io/badge/-Mastodon-%235d4fe6?logo=mastodon&logoColor=white" alt="Mastodon" height="28rem">
     </a>
 </div>
+</section>
 
+<section>
 <h2>📝 Blogs </h2>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://dev.to/harshalharle" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
@@ -279,48 +287,49 @@
         <img src="https://img.shields.io/badge/RSS-F88900.svg?logo=rss&logoColor=white" alt="RSS" height="28rem">
     </a>
 </div>
+</section>
 
-<h2>📂 Recent Projects </h2>
+<section>
+  <h2 style="font-size: 24px; font-weight: bold;">📂 Recent Projects</h2>
+  <table style="width: 100%; margin: 0 auto;">
+    <tr style="text-align: center;">
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://realtimeboard.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://jotion.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://zenboard.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+    </tr>
+    <tr style="text-align: center;">
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://companion-ai.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://companion-ai.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://genius-studio.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+      <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://imagick.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://imagick.vercel.app" alt="Imagick Tool" style="max-width: 100%; height: auto;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</section>
 
-<table style="width: 100%; margin: 0 auto;">
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://realtimeboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://jotion.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://zenboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool">
-      </a>
-    </td>
-  </tr>
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://companion-ai.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://companion-ai.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://genius-studio.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://imagick.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://imagick.vercel.app" alt="Imagick Tool">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
+<section>
 <h2>
     <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" alt="GitHub Stats" style="width: 2rem;">
     GitHub Stats
@@ -342,10 +351,10 @@
         </a>
     </div>
 </div>
+</section>
 
-
-
-## 📬 Reach out to me at
+<footer>
+<h2>📬 Reach out to me at</h2>
 <a title='Open Default Mail Client App' href="mailto:contact@harshalharle.tech">
     <img height="55" align="left" clear="right" alt="Mail" src="assets/icons/mail.png" />
 </a>
@@ -366,3 +375,4 @@ contact@harshalharle.tech
     <img src="https://img.shields.io/badge/PayPal-1f264f.svg?logo=paypal&logoColor=2790c3" alt="PayPal" height="28rem">
 </a>
 </div>
+</footer>
