@@ -303,21 +303,11 @@
           <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App" style="max-width: 100%; height: auto;">
         </a>
       </td>
-      <td style="width: 33.33%; padding: 0.5rem;">
-        <a href="https://zenboard.vercel.app">
-          <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool" style="max-width: 100%; height: auto;">
-        </a>
-      </td>
     </tr>
     <tr style="text-align: center;">
-      <td style="width: 33.33%; padding: 0.5rem;">
-        <a href="https://companion-ai.vercel.app">
-          <img src="https://svg.bookmark.style/api?url=https://companion-ai.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard" style="max-width: 100%; height: auto;">
-        </a>
-      </td>
-      <td style="width: 33.33%; padding: 0.5rem;">
-        <a href="https://genius-studio.vercel.app">
-          <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio" style="max-width: 100%; height: auto;">
+        <td style="width: 33.33%; padding: 0.5rem;">
+        <a href="https://zenboard.vercel.app">
+          <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool" style="max-width: 100%; height: auto;">
         </a>
       </td>
       <td style="width: 33.33%; padding: 0.5rem;">
