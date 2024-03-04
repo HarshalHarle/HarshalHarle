@@ -17,10 +17,6 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-
-[![Harshal Harle](assets/icons/email.png)](javascript:void(prompt('', 'contact@harshalharle.tech')))
-
-
 <h2>🔍 Connect on</h2>
 
 <div style="font-family: 'Arial', sans-serif;">
