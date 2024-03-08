@@ -1,8 +1,15 @@
+<documents>
+<document index="1">
+<document_content>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&family=Raleway&family=Lato&display=swap" rel="stylesheet">
+
 <header>
-<h1 align="center">
+<h1 align="center" style="font-family: 'Montserrat', sans-serif;">
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
 </h1>
-<h3 align="center">
+<h3 align="center" style="font-family: 'Open Sans', sans-serif;">
 𝙎𝙚𝙡𝙛-𝙏𝙖𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 🧑🏻‍💻
 </h3>
 
@@ -17,13 +24,13 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-<h2>🔍  Where to find me</h2>
+<h2 style="font-family: 'Raleway', sans-serif;">🔍  Where to find me</h2>
 
 </header>
 <main>
 <section>
-<div style="font-family: 'Arial', sans-serif;">
-  <h2 style="margin-bottom: 1rem;"> 🚀 About Me </h2>
+<div style="font-family: 'Lato', sans-serif;">
+  <h2 style="margin-bottom: 1rem; font-family: 'Montserrat', sans-serif;"> 🚀 About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
     Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
@@ -34,14 +41,14 @@
     <br>
     Whether it's a new job 💼 or a chance to flex my coding muscles,💪🏻 if you've got a spot on your team that needs a bit of coding flair and a whole lot of enthusiasm 🙌, count me in! Let's connect & create something awesome! 🪄
     <br><br>
-    ⚡ Fun fact – I'm more than just a coder, I'm a storyteller. And Oh, I almost forgot to tell you.. I use Arch btw.
+    ⚡ Fun fact – I'm more than just a coder, I'm a storyteller. Also I love tinkering linux. And Oh, I almost forgot to tell you.. I use Arch btw.
   </p>
 </div>
 </section>
 
 <section>
-<h2>🧰 Tech Stack </h2>
-<h3>⌨️ Languages </h3>
+<h2 style="font-family: 'Montserrat', sans-serif;">🧰 Tech Stack </h2>
+<h3 style="font-family: 'Open Sans', sans-serif;">⌨️ Languages </h3>
     <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
             <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&logoColor=fff" alt="JavaScript" height="28rem">
@@ -66,7 +73,7 @@
         </a>
     </div>
 
-<h3>🎨 Frontend </h3>
+<h3 style="font-family: 'Open Sans', sans-serif;">🎨 Frontend </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://react.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/-React-20232A.svg?logo=react&logoColor=61DAFB" alt="React" height="28rem">
@@ -91,7 +98,7 @@
     </a>
 </div>
 
-<h3>🐧 Backend </h3>
+<h3 style="font-family: 'Open Sans', sans-serif;">🐧 Backend </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" alt="NodeJS" height="28rem">
@@ -116,7 +123,7 @@
     </a>
 </div>
 
-<h3>📱 Mobile & Desktop </h3>
+<h3 style="font-family: 'Open Sans', sans-serif;">📱 Mobile & Desktop </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/-React_Native-20232A.svg?logo=react&logoColor=61DAFB" alt="React Native" height="28rem">
@@ -129,7 +136,7 @@
     </a>
 </div>
 
-<h3>☁️ Cloud & Deployment </h3>
+<h3 style="font-family: 'Open Sans', sans-serif;">☁️ Cloud & Deployment </h3>
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
         <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&logoColor=FF9900" alt="AWS" height="28rem">
