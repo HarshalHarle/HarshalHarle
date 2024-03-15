@@ -1,6 +1,6 @@
 <header>
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="" loop="false">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
 </h1>
 <h3 align="center">
 <sub>⌞</sub> 𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 <sup>⌝<sup>
@@ -17,7 +17,7 @@
     <img title='www.harshalharle.tech' align="right" height="32" alt="Harshal Harle" src="assets/icons/H.png"/>
 </a>
 
-<h2>🔍  Where to find me</h2>
+<h2>🔍 Find me here</h2>
 
 </header>
 <main>
