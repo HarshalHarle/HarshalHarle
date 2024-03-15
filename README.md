@@ -233,14 +233,8 @@ contact@harshalharle.tech
 
  <h2>💰 You can support me through donation</h2>
  <div  align="center">
-<a href="https://buymeacoffee.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="28rem">
-</a>
-<a href="https://ko-fi.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-F16061.svg?logo=ko-fi&logoColor=white" alt="Ko-Fi" height="28rem">
-</a>
-<a href="https://paypal.me/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/PayPal-1f264f.svg?logo=paypal&logoColor=2790c3" alt="PayPal" height="28rem">
-</a>
+<a href="https://buymeacoffee.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="28rem"></a><!---->
+<a href="https://ko-fi.com/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Chai-F16061.svg?logo=ko-fi&logoColor=white" alt="Ko-Fi" height="28rem"></a><!---->
+<a href="https://paypal.me/harshalharle"  target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/PayPal-1f264f.svg?logo=paypal&logoColor=2790c3" alt="PayPal" height="28rem"></a><!---->
 </div>
 </footer>
