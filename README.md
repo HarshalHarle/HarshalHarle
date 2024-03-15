@@ -42,28 +42,14 @@
 <section>
 <h2>🧰 Tech Stack </h2>
 <h3>⌨️ Languages </h3>
-    <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; align-items: center;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&logoColor=fff" alt="JavaScript" height="28rem">
-        </a>
-        <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" height="28rem">
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-Python-3776ab.svg?logo=python&logoColor=ffd43b" alt="Python" height="28rem">
-        </a>
-        <a href="https://www.rust-lang.org/" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-        <img src="https://img.shields.io/badge/-Rust-E57324.svg?logo=rust&logoColor=black" alt="Rust" height="28rem">
-        </a>
-        <a href="https://www.cprogramming.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&logoColor=white" alt="C" height="28rem">
-        </a>
-        <a href="https://www.cplusplus.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" height="28rem">
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;">
-            <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=E76F00" alt="Java" height="28rem">
-        </a>
+    <div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&logoColor=fff" alt="JavaScript" height="28rem"></a><!---->
+<a href="https://www.typescriptlang.org" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-Typescript-3178C6.svg?logo=typescript&logoColor=white" alt="TypeScript" height="28rem"></a><!---->
+<a href="https://www.python.org" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-Python-3776ab.svg?logo=python&logoColor=ffd43b" alt="Python" height="28rem"></a><!---->
+<a href="https://www.rust-lang.org/" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-Rust-E57324.svg?logo=rust&logoColor=black" alt="Rust" height="28rem"></a><!---->
+<a href="https://www.cprogramming.com" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&logoColor=white" alt="C" height="28rem"></a><!---->
+<a href="https://www.cplusplus.com" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" height="28rem"></a><!---->
+<a href="https://www.java.com" target="\_blank" rel="noopener noreferrer" style="margin-right: 0.5rem;"><img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&logoColor=E76F00" alt="Java" height="28rem"></a>
     </div>
 
 <h3>🎨 Frontend </h3>
