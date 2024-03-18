@@ -26,7 +26,7 @@
   <h2 style="margin-bottom: 1rem;"> 🚀 About Me </h2>
 
   <p style="font-size: 1.2rem; line-height: 1.6;">
-    Hey, I'm <em><strong>Harshal</strong></em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
+    Hey, I'm <em>Harshal</em>, a web wizard from India..!🧙🏼‍♂️ Armed with a degree in <strong>Computer Science</strong>, I'm all about crafting awesome online experiences.
     <br>
     When I'm not obsessing over pixels,✨ you'll find me <span style="font-weight: bold;">immersed</span> in a good book,📖 or wandering through uncharted landscapes,🌏 or chatting up with interesting folks for life's juicy tales!
     <br><br>
@@ -159,42 +159,12 @@
 
 <section>
 <h2>📂 Recent Projects </h2>
-<table style="width: 100%; margin: 0 auto;">
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://realtimeboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://jotion.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://zenboard.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://zenboard.vercel.app" alt="ZenBoard - Project Management Tool">
-      </a>
-    </td>
-  </tr>
-  <tr style="text-align: center;">
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://companion-ai.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://companion-ai.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://genius-studio.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://genius-studio.vercel.app" alt="Genius AI Studio">
-      </a>
-    </td>
-    <td style="width: 33.33%; padding: 0.5rem;">
-      <a href="https://imagick.vercel.app">
-        <img src="https://svg.bookmark.style/api?url=https://imagick.vercel.app" alt="Imagick Tool">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <a href="https://realtimeboard.vercel.app" style="max-width: 100%; max-height: 100%;"><img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard" style="max-width: 100%; max-height: 100%;"></a><!---->
+  <a href="https://jotion.vercel.app" style="max-width: 100%; max-height: 100%;"><img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App" style="max-width: 100%; max-height: 100%;"></a><!---->
+  <a href="https://imagick.vercel.app" style="max-width: 100%; max-height: 100%;"><img src="https://svg.bookmark.style/api?url=https://boombox-ecommerce.vercel.app" alt="Imagick Tool" style="max-width: 100%; max-height: 100%;"></a><!---->
+  <a href="https://linguist.vercel.app" style="max-width: 100%; max-height: 100%;"><img src="https://svg.bookmark.style/api?url=https://linguist.vercel.app" alt="Linguist - AI Powered Language Learning" style="max-width: 100%; max-height: 100%;"></a><!---->
+</div>
 </section>
 
 <section>
