@@ -160,10 +160,10 @@
 <section>
 <h2>📂 Recent Projects </h2>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-  <a href="https://realtimeboard.vercel.app"><img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard"style="max-width: 100%; max-height: 100%;"></a><!---->
-  <a href="https://jotion.vercel.app"><img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App"style="max-width: 100%; max-height: 100%;"></a><!---->
-  <a href="https://imagick.vercel.app"><img src="https://svg.bookmark.style/api?url=https://boombox-ecommerce.vercel.app" alt="Imagick Tool"style="max-width: 100%; max-height: 100%;"></a><!---->
-  <a href="https://linguist.vercel.app"><img src="https://svg.bookmark.style/api?url=https://linguist.vercel.app" alt="Linguist - AI Powered Language Learning"style="max-width: 100%; max-height: 100%;"></a><!---->
+  <a href="https://realtimeboard.vercel.app"><img src="https://svg.bookmark.style/api?url=https://realtimeboard.vercel.app" alt="RealTimeBoard - Collaborative Whiteboard"style="max-width: 50%; max-height: 50%;"></a><!---->
+  <a href="https://jotion.vercel.app"><img src="https://svg.bookmark.style/api?url=https://jotion.vercel.app" alt="Jotion - Note Taking App"style="max-width: 50%; max-height: 50%;"></a><!---->
+  <a href="https://imagick.vercel.app"><img src="https://svg.bookmark.style/api?url=https://boombox-ecommerce.vercel.app" alt="Imagick Tool"style="max-width: 50%; max-height: 50%;"></a><!---->
+  <a href="https://linguist.vercel.app"><img src="https://svg.bookmark.style/api?url=https://linguist.vercel.app" alt="Linguist - AI Powered Language Learning"style="max-width: 50%; max-height: 50%;"></a><!---->
 </div>
 </section>
 
