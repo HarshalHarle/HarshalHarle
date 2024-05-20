@@ -1,11 +1,11 @@
 <header>
-<!-- <h1 align="center">
+<h1 align="center">
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="">  𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝𝙖𝙡 𝙃𝙖𝙧𝙡𝙚
-</h1> -->
-<h3 align="center">
+</h1>
+<!-- <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=1000&color=385E72&center=true&vCenter=true&repeat=false&random=false&height=30&lines=%F0%9D%99%8E%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9B-%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%AA%F0%9D%99%9C%F0%9D%99%9D%F0%9D%99%A9+%F0%9D%99%81%F0%9D%99%AA%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%A8%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0+%F0%9D%98%BF%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7;%F0%9D%99%81%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%A9-%F0%9D%99%9A%F0%9D%99%A3%F0%9D%99%99+%F0%9D%99%8B%F0%9D%99%A7%F0%9D%99%A4%F0%9D%99%99%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A9+%F0%9D%99%80%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%9E%F0%9D%99%A3%F0%9D%99%9A%F0%9D%99%9A%F0%9D%99%A7;%F0%9D%99%90%F0%9D%99%A8%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%80%F0%9D%99%AD%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%9A%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A+%F0%9D%98%BC%F0%9D%99%A7%F0%9D%99%98%F0%9D%99%9D%F0%9D%99%9E%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%A9;%F0%9D%99%8E%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9B-%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%AA%F0%9D%99%9C%F0%9D%99%9D%F0%9D%99%A9+%F0%9D%99%81%F0%9D%99%AA%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%A8%F0%9D%99%A9%F0%9D%99%96%F0%9D%99%98%F0%9D%99%A0+%F0%9D%98%BF%F0%9D%99%9A%F0%9D%99%AB%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%A4%F0%9D%99%A5%F0%9D%99%9A%F0%9D%99%A7" alt="𝙎𝙚𝙡𝙛-𝙩𝙖𝙪𝙜𝙝𝙩 𝙁𝙪𝙡𝙡𝙨𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧" />
 </h3>
-
+ -->
 ###
 <a href="https://t.me/HarshalHarle" target="_blank" rel="noopener noreferrer">
     <img title='Use for Direct Messages' align="right" height="32" alt="Mail" src="assets/icons/telegram.png" />
